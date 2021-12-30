@@ -7,7 +7,7 @@ lab2 - MIPS Assembly Language, QtSpim Simulator
 
 lab3 - Ripple Carry Adders, Carry Select Adders, Hierarchical Design, Structural Verilog, Verification Logic, Simulation
 
-lab4 - ALU w/ 2 N-bit Inputs, N-bit Subtractors
+lab4 - ALU w/ 2 N-bit Inputs
 
 lab5 - Pipelined Datapath
 
